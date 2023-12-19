@@ -1,0 +1,170 @@
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc70.21 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc68.85 
+	lr: 0.001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc66.64 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc64.83 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 5, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 1, "n_augview": 0, "ft": true, "note": "default", "loss_type": "default", "log": "ablation_vit_tr_onlystatic_3_32_5", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.001, "epoch": 100, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "mute_dynamic": true, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+70.04	70.04	
+
+69.69	69.69	
+
+72.11	72.11	
+
+32.18	32.18	
+
+35.79	35.79	
+
+70.21	70.21	
+
+0.01	0.01	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc71.30 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc69.30 
+	lr: 0.001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc67.63 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc64.95 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 5, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 2, "n_augview": 0, "ft": true, "note": "default", "loss_type": "default", "log": "ablation_vit_tr_onlystatic_3_32_5", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.001, "epoch": 100, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "mute_dynamic": true, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+70.91	70.91	
+
+69.92	69.92	
+
+72.50	72.50	
+
+45.94	45.94	
+
+48.10	48.10	
+
+71.30	71.30	
+
+0.01	0.01	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc72.08 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc69.90 
+	lr: 0.001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc67.92 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc65.38 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 5, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 4, "n_augview": 0, "ft": true, "note": "default", "loss_type": "default", "log": "ablation_vit_tr_onlystatic_3_32_5", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.001, "epoch": 100, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "mute_dynamic": true, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+71.59	71.59	
+
+70.22	70.22	
+
+73.05	73.05	
+
+57.12	57.12	
+
+58.75	58.75	
+
+72.08	72.08	
+
+0.01	0.01	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc72.80 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc70.65 
+	lr: 0.001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc68.99 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc65.80 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 5, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 8, "n_augview": 0, "ft": true, "note": "default", "loss_type": "default", "log": "ablation_vit_tr_onlystatic_3_32_5", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.001, "epoch": 100, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "mute_dynamic": true, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+72.34	72.34	
+
+70.93	70.93	
+
+73.79	73.79	
+
+63.60	63.60	
+
+65.15	65.15	
+
+72.80	72.80	
+
+0.01	0.01	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc73.89 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc71.40 
+	lr: 0.001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc69.63 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc67.53 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 5, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 16, "n_augview": 0, "ft": true, "note": "default", "loss_type": "default", "log": "ablation_vit_tr_onlystatic_3_32_5", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.001, "epoch": 100, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "mute_dynamic": true, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+73.57	73.57	
+
+72.83	72.83	
+
+74.75	74.75	
+
+67.41	67.41	
+
+69.20	69.20	
+
+73.89	73.89	
+
+0.01	0.01	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+
+0.00	0.00	
+

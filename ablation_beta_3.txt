@@ -1,0 +1,69 @@
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc73.28 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 16, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "ablation_beta_3", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": true, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+69.930	69.930	
+
+72.642	72.642	
+
+63.890	63.890	
+
+73.282	73.282	
+
+0.001	0.001	
+
+0.001	0.001	
+
+0.001	0.001	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc73.28 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 16, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "ablation_beta_3", "weight_maxent": 0.001, "beta": 7.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": true, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+69.930	69.930	
+
+72.468	72.468	
+
+63.766	63.766	
+
+73.282	73.282	
+
+0.001	0.001	
+
+0.001	0.001	
+
+0.001	0.001	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc73.19 
+	{"data": "/data3/tuning/", "test_sets": "I", "dataset_mode": "test", "arch": "ViT-B/16", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 16, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "ablation_beta_3", "weight_maxent": 0.001, "beta": 10.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": true, "num_important_channel": 0, "lambda_ape": 0.3, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "I", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	mean	
+
+69.930	69.930	
+
+72.178	72.178	
+
+63.540	63.540	
+
+73.188	73.188	
+
+0.003	0.003	
+
+0.001	0.001	
+
+0.003	0.003	
+

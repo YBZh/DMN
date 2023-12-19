@@ -1,0 +1,332 @@
+processing the datasetI 
+	processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc63.77 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc63.96 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc63.77 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc63.86 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc63.87 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc64.05 
+	processing the datasetFlower102 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc76.61 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc76.70 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc76.70 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc76.17 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc74.91 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc75.07 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc53.72 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc52.60 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc52.60 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc53.25 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc52.48 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc53.66 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc86.64 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc86.13 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc86.70 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc86.10 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc86.26 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc86.67 
+	processing the datasetCars 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc60.20 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc60.56 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc60.35 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc60.28 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc60.45 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc60.37 
+	processing the datasetUCF101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc66.80 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc65.87 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc65.69 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc66.06 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc66.27 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc65.34 
+	processing the datasetCaltech101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc90.95 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc91.12 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc90.63 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc90.43 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc90.59 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc90.63 
+	processing the datasetFood101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc76.63 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc76.66 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc76.58 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc76.52 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc76.59 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc76.58 
+	processing the datasetSUN397 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc64.68 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.58 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc64.91 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc64.82 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc64.99 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc64.88 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc22.44 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc22.68 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc22.38 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc22.50 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc23.01 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc22.89 
+	processing the dataseteurosat 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc59.98 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc59.63 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc60.12 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc55.49 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc61.23 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc60.84 
+	{"data": "/data3/tuning/", "test_sets": "I/Flower102/DTD/Pets/Cars/UCF101/Caltech101/Food101/SUN397/Aircraft/eurosat", "dataset_mode": "test", "arch": "RN50", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 1, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "cvpr_final_dmn_tf_resnet_searched_channel_3_32_3", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.7, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "eurosat", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	Flower102	DTD	Pets	Cars	UCF101	Caltech101	Food101	SUN397	Aircraft	eurosat	mean	
+
+61.684	65.936	48.463	85.037	57.269	63.283	89.533	76.112	63.088	19.502	38.000	667.908	
+
+63.704	68.859	50.532	85.200	59.159	65.292	89.249	71.521	64.353	22.502	46.778	687.150	
+
+22.030	59.480	38.416	38.839	28.753	44.039	74.320	37.815	32.680	13.411	51.358	441.142	
+
+64.054	76.695	53.723	86.699	60.565	66.799	91.116	76.657	64.992	23.012	61.235	725.547	
+
+1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	11.000	
+
+1.000	0.300	0.300	1.000	0.300	0.300	0.300	0.300	0.300	30.000	1.000	35.100	
+
+0.030	3.000	1.000	0.010	0.300	1.000	1.000	0.100	0.300	10.000	1.000	17.740	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc63.92 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.02 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc63.85 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc63.94 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc63.91 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc64.07 
+	processing the datasetFlower102 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc82.38 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc82.38 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc82.50 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc80.88 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc83.03 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc82.99 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc55.73 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc54.02 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc54.08 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc53.72 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc54.26 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc55.61 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc86.45 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc86.18 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc86.81 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc86.26 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc86.35 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc86.78 
+	processing the datasetCars 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc62.22 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc62.12 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc61.50 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc61.22 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc61.63 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc61.56 
+	processing the datasetUCF101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc68.17 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc66.61 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc67.46 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc67.04 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc67.20 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc66.96 
+	processing the datasetCaltech101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc91.36 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc91.03 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc90.87 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc90.67 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc90.95 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc90.91 
+	processing the datasetFood101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc76.72 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc76.75 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc76.63 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc76.60 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc76.58 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc76.63 
+	processing the datasetSUN397 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc64.90 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.87 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc65.30 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc65.06 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc65.29 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc65.19 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc22.92 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc23.07 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc22.86 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc23.04 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc23.64 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc23.91 
+	processing the dataseteurosat 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc59.47 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc59.41 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc59.44 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc57.74 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc61.75 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc61.09 
+	{"data": "/data3/tuning/", "test_sets": "I/Flower102/DTD/Pets/Cars/UCF101/Caltech101/Food101/SUN397/Aircraft/eurosat", "dataset_mode": "test", "arch": "RN50", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 2, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "cvpr_final_dmn_tf_resnet_searched_channel_3_32_3", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.7, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "eurosat", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	Flower102	DTD	Pets	Cars	UCF101	Caltech101	Food101	SUN397	Aircraft	eurosat	mean	
+
+61.672	65.976	48.463	85.037	57.269	63.283	89.533	76.092	63.103	19.502	38.012	667.944	
+
+63.698	70.524	51.300	85.146	59.433	65.477	89.533	71.502	64.529	22.922	47.753	691.817	
+
+31.004	72.107	47.459	48.106	38.266	51.916	79.108	46.568	41.406	17.852	51.272	525.063	
+
+64.068	83.029	55.733	86.808	62.219	68.173	91.359	76.746	65.305	23.912	61.753	739.105	
+
+1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	11.000	
+
+1.000	0.030	0.001	1.000	0.300	0.300	0.300	0.300	0.300	3.000	1.000	7.531	
+
+0.300	1.000	1.000	0.001	1.000	1.000	1.000	0.300	0.300	3.000	1.000	9.901	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc64.01 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.14 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc64.07 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc64.13 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc64.02 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc64.18 
+	processing the datasetFlower102 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc85.99 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc85.51 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc87.29 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc86.60 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc88.63 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc88.63 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc59.57 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc56.68 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc57.68 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc55.61 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc57.39 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc57.57 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc86.70 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc86.43 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc86.97 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc86.43 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc86.43 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc86.81 
+	processing the datasetCars 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc63.62 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc63.54 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc63.56 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc62.09 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc63.59 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc63.56 
+	processing the datasetUCF101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc69.97 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc67.75 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc69.15 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc67.78 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc69.18 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc69.52 
+	processing the datasetCaltech101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc91.48 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc91.44 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc91.32 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc90.83 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc91.60 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc91.40 
+	processing the datasetFood101 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc76.70 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc76.77 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc76.81 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc76.61 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc76.64 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc76.63 
+	processing the datasetSUN397 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc65.34 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc65.23 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc65.76 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc65.58 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc65.91 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc65.91 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc25.11 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc25.38 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc25.50 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc25.41 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc26.31 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc26.67 
+	processing the dataseteurosat 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc65.38 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.37 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc65.49 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc61.56 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc65.78 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc65.90 
+	{"data": "/data3/tuning/", "test_sets": "I/Flower102/DTD/Pets/Cars/UCF101/Caltech101/Food101/SUN397/Aircraft/eurosat", "dataset_mode": "test", "arch": "RN50", "resolution": 224, "workers": 4, "batch_size": 32, "print_freq": 200, "gpu": 3, "tpt": true, "selection_p": 0.1, "tta_steps": 1, "n_ctx": 4, "ctx_init": "a_photo_of_a", "cocoop": false, "load": null, "seed": 0, "n_shot": 4, "n_augview": 0, "ft": false, "note": "default", "loss_type": "default", "log": "cvpr_final_dmn_tf_resnet_searched_channel_3_32_3", "weight_maxent": 0.001, "beta": 5.5, "mapping": "bias", "position": "all", "optimizer": "adamw", "eps": 1e-08, "wd": 0.0001, "local_top": 1, "lr": 0.0001, "epoch": 20, "shared_param": false, "num_important_channel": 0, "lambda_ape": 0.7, "static_mem_weight": 0.0, "memory_size": 50, "text_prompt": "tip_cupl", "set_id": "eurosat", "indice": 0}
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.0001	32
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+I	Flower102	DTD	Pets	Cars	UCF101	Caltech101	Food101	SUN397	Aircraft	eurosat	mean	
+
+61.672	65.976	48.463	85.037	57.269	63.283	89.533	76.092	63.103	19.502	38.012	667.944	
+
+63.740	74.543	52.187	85.473	60.142	66.006	89.452	71.353	64.705	23.762	52.914	704.277	
+
+39.788	83.232	54.255	54.947	45.940	58.366	84.178	56.399	53.139	23.672	61.704	615.620	
+
+64.184	88.632	59.574	86.972	63.624	69.971	91.602	76.805	65.914	26.673	65.901	759.853	
+
+1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	1.000	11.000	
+
+1.000	0.003	0.300	1.000	0.300	0.100	0.300	0.100	1.000	1.000	0.300	5.403	
+
+0.300	1.000	3.000	0.100	1.000	1.000	0.300	0.300	1.000	1.000	1.000	10.000	
+
+processing the datasetI 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc64.53 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc64.39 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc64.30 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc64.46 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc64.35 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc64.65 
+	processing the datasetFlower102 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc87.94 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc88.06 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc89.44 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc88.75 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc91.68 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc90.95 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc61.52 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc59.04 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc60.22 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc59.93 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc62.65 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc62.59 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc87.22 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc86.86 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc87.41 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc86.67 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc86.78 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc87.19 
+	processing the datasetCars 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc66.98 
+	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc66.70 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.3, best acc67.31 
+	lr: 0.0001, epoch:20, num_important_channel800, lambda_ape: 0.7, best acc65.41 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc67.27 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.7, best acc67.40 
+	processing the datasetUCF101 
+	
