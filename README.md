@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of our CVPR 2024 paper:    
 
-> [<ins>**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**</ins>](https://arxiv.org/pdf/2209.07511.pdf)   
+> [<ins>**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**</ins>](https://github.com/YBZh/DMN)   
 > Authors: *[<ins>**Yabin Zhang**</ins>](https://scholar.google.com/citations?user=p0GLwtoAAAAJ&hl=en), [<ins>**Wenjie Zhu**</ins>](https://scholar.google.com/citations?user=8hodVdAAAAAJ&hl=en&oi=sra), [<ins>**Hui Tang**</ins>](https://scholar.google.com/citations?user=eqVvhiQAAAAJ&hl=en), [<ins>**Zhiyuan Ma**</ins>](https://scholar.google.com/citations?user=F15mLDYAAAAJ&hl=en&oi=ao), [<ins>**Kaiyang Zhou**</ins>](https://scholar.google.com/citations?user=gRIejugAAAAJ&hl=en&oi=ao), [<ins>**Lei Zhang**</ins>](https://scholar.google.com/citations?user=tAK5l1IAAAAJ&hl=en&oi=ao)*   
 
 
