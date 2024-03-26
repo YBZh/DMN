@@ -29,12 +29,12 @@ ID_to_DIRNAME={
     'V': 'imagenetv2-matched-frequency-format-val',
     'flower102': 'oxford_flowers',
     'dtd': 'dtd',
-    'pets': 'oxford_pets',
+    'pets': 'oxford_pets/images',
     'cars': 'stanford_cars',
     'ucf101': 'ucf101/UCF-101-midframes',
-    'caltech101': 'caltech-101',
+    'caltech101': 'caltech-101/caltech-101/101_ObjectCategories',
     'food101': 'food-101',
-    'sun397': 'sun397',
+    'sun397': 'sun397/SUN397',
     'aircraft': 'fgvc_aircraft',
     'eurosat': 'eurosat/2750'
 }

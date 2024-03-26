@@ -1,7 +1,0 @@
-processing the datasetI 
-	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc72.22 
-	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc72.19 
-	processing the datasetI 
-	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.3, best acc72.22 
-	lr: 0.0001, epoch:20, num_important_channel500, lambda_ape: 0.7, best acc72.18 
-	
