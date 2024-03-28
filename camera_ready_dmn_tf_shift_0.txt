@@ -1,0 +1,29 @@
+processing the datasetA 
+	lr: 0.1, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc58.28 
+	processing the datasetV 
+	lr: 0.1, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc65.27 
+	processing the datasetR 
+	lr: 0.1, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc78.55 
+	processing the datasetK 
+	lr: 0.1, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc52.98 
+	{"arch": "ViT-B/16", "batch_size": 32, "beta": 5.5, "ctx_init": "a_photo_of_a", "data": "/home/notebook/data/group/yabin/clip_tuning_datasets/", "dataset_mode": "test", "epoch": 20, "eps": 1e-08, "ft": false, "gpu": 0, "indice": 0, "lambda_ape": 0.3, "load": null, "log": "camera_ready_dmn_tf_shift_0", "lr": 0.1, "mapping": "bias", "memory_size": 50, "n_augview": 0, "n_ctx": 4, "n_shot": 0, "num_important_channel": 0, "optimizer": "adamw", "position": "all", "print_freq": 200, "resolution": 224, "seed": 0, "selection_p": 0.1, "set_id": "K", "shared_param": false, "test_sets": "A/V/R/K", "text_prompt": "tip_cupl", "use_searched_param": true, "wd": 0.0001, "workers": 4}
+======== Result Summary ========
+params: bs	lr	selection_p
+params: 32	0.1	0.1
+		 [set_id] 		 Top-1 acc. 		 Top-1 local acc, 		 Top-1 global acc 		 Searched acc 		 beta 		 gama.
+A	V	R	K	mean	
+
+50.853	63.640	77.363	49.341	241.197	
+
+58.187	65.250	72.413	52.605	248.455	
+
+0.000	0.000	0.000	0.000	0.000	
+
+58.280	65.270	78.547	52.980	255.077	
+
+1.000	1.000	1.000	1.000	4.000	
+
+3.000	1.000	0.300	1.000	5.300	
+
+0.000	0.000	0.000	0.000	0.000	
+
